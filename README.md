@@ -1,3 +1,10 @@
+Pt-br
+Aqui esta um projeto que criei de uma pagina do meu perfil
+
+en
+Here is a project I created from a page on my profile
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
